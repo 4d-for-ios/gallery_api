@@ -18,6 +18,6 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-url": "^1.0.4",
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   }
 }
